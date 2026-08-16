@@ -1,6 +1,6 @@
 # Changelog
 
-Round-by-round development log of `rust/binutils`. Reverse-chronological:
+Round-by-round development log of `safety/oxidized/binutils`. Reverse-chronological:
 newest at top.
 
 ## Custom-test expansion (135/135 → 138/138 ✅)
